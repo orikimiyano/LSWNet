@@ -1,5 +1,5 @@
 from data import *
-from models.PSPNet import *
+from models.LSWNet import *
 import sys
 import os
 

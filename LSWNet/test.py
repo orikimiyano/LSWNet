@@ -1,7 +1,7 @@
 import os
 import warnings
 from data import *
-from models.PSPNet import *
+from models.LSWNet import *
 warnings.filterwarnings("ignore")
 
 NameOfModel = 'LSWNet_1'
